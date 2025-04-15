@@ -11,3 +11,7 @@ zyre supot
 24/7 cmd:
 
 bash <(curl -s https://raw.githubusercontent.com/JishnuTheGamer/Vps/refs/heads/main/24) 
+
+fuji chat bup:
+
+<#B1B2FF>[%playtime%🔥 %mined%⛏ %placed%🔳 %killed%🗡 %moved%🌍]<reset> 
