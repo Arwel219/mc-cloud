@@ -16,3 +16,5 @@ bash <(curl -s https://raw.githubusercontent.com/JishnuTheGamer/Vps/refs/heads/m
 fuji chat bup:
 
 <#B1B2FF>[%playtime%🔥 %mined%⛏ %placed%🔳 %killed%🗡 %moved%🌍]<reset> 
+
+gago
